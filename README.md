@@ -10,8 +10,8 @@
 ***
 
 <a name="fend"/>
-## Udacity FEND Program
 
+## Udacity FEND Program
 The Udacity Front-End Web Development Nanodegree (FEND) program consists of five projects which build mastery of in-demand skills such as:
 * HTML5
 * CSS3
@@ -34,6 +34,7 @@ The Udacity Front-End Web Development Nanodegree (FEND) program consists of five
 ***
 
 <a name="cert"/>
+
 ## Certificate of Completion
 
 ![Noelle Horton Front-End Nanodegree](./fend-certificate.png "Noelle Horton Front-End Nanodegree")
@@ -42,8 +43,8 @@ The Udacity Front-End Web Development Nanodegree (FEND) program consists of five
 ***
 
 <a name="gwg"/>
-## Grow with Google 
 
+## Grow with Google 
 The [Udacity Grow with Google web developer program](https://www.udacity.com/grow-with-google "Udacity Grow with Google") grants 1,500 full scholarships to the Udacity Front-End Web Developer Nanodegree program. This challenge scholarship is part of the [Grow with Google iniative](https://grow.google/?utm_source=udacity.com&utm_medium=footer_logo&utm_campaign=udacity.com/grow-with-google "Grow with Google campaign").
 
 As one of the top students in Udacity's Web Development learning track, I achieved the Grow with Google scholarship and completed my Front-End Web Development nanodegree in November of 2018.
