@@ -5,9 +5,12 @@ This project will soon be re-uploaded without jQuery, Font-Awesome, or EasyTimer
 
 ![Screenshot of Memory Game](https://i.imgur.com/btV1TYx.png)
 
-## Instructions
+## To Run
 
 - Clone this repository and open up the `index.html` file in your preferred browser.
+- If you prefer, you can [click this link to play!](https://noellekinseydev.github.io/Udacity-FEND-Projects-2018/memory-game)
+
+## Game Instructions
 - Click the tiles to reveal the card symbols.
 - Make 8 matches to win the game!
 - Achieve 3 stars by matching all tiles in 13 or less moves.
