@@ -8,7 +8,7 @@ This project will soon be re-uploaded without jQuery, Font-Awesome, or EasyTimer
 ## To Run
 
 - Clone this repository and open up the `index.html` file in your preferred browser.
-- If you prefer, you can [click this link to play!](https://noellekinseydev.github.io/Udacity-FEND-Projects-2018/memory-game)
+- If you prefer, you can [click this link to play!](https://noellekinseydev.github.io/FEND-2018/memory-game)
 
 ## Game Instructions
 - Click the tiles to reveal the card symbols.
