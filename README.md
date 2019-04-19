@@ -16,7 +16,7 @@
   2. Memory Game 
      - [Rubric](https://review.udacity.com/#!/rubrics/591/view)
      - [Repo](./memory-game)
-     - [Demo](./memory-game/index.html)
+     - [Demo](https://noellekinseydev.github.io/Udacity-FEND-Projects-2018/memory-game)
   3. Classic Arcade Game 
      - [Rubric](https://review.udacity.com/#!/rubrics/15/view)
   4. Feed Reader Testing 
