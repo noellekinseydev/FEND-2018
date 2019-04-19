@@ -8,6 +8,17 @@
 
 [My Certificate of Completion](#cert)  
 ***
+<a name="projects"/>
+
+## Projects
+  1. Portfolio Site [Rubric](https://review.udacity.com/#!/rubrics/45/view)
+  2. Memory Game [Rubric](https://review.udacity.com/#!/rubrics/591/view)
+  3. Classic Arcade Game [Rubric](https://review.udacity.com/#!/rubrics/15/view)
+  4. Feed Reader Testing [Rubric](https://review.udacity.com/#!/rubrics/18/view)
+  5. Restaurant Reviews App [Rubric](https://review.udacity.com/#!/rubrics/1090/view)
+  6. MyReads: Book Tracking App [Rubric](https://review.udacity.com/#!/rubrics/918/view)
+  7. Neighborhood Map [Rubric](https://review.udacity.com/#!/rubrics/1351/view)
+***
 
 <a name="fend"/>
 
