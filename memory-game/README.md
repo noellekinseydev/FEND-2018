@@ -1,5 +1,5 @@
 # Memory Game Project
-I originally built this project in June 2018 for Udacity's Front End Web Development Nanodegree Program as part of the Grow with Google scholarship I received. 
+I originally built this project in 2018 for Udacity's Front End Web Development Nanodegree Program as part of the Grow with Google scholarship I received. 
 
 This project will soon be re-uploaded without jQuery, Font-Awesome, or EasyTimer as a vanilla JavaScript challenge and an exercise in keeping dependencies to a minimum. Stay tuned for a link to the revamped version repository.
 
