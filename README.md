@@ -1,8 +1,11 @@
 # Udacity FEND Projects 2018
 ### Table of Contents  
-[Projects in This Repo](#projects)  
+[Projects in This Repo](#projects)
+
 [What is the Udacity FEND Program?](#fend)
+
 [Grow with Google Scholarship](#gwg)
+
 [My Certificate of Completion](#cert)  
 ***
 
