@@ -23,6 +23,8 @@
      - [Demo](https://noellekinseydev.github.io/FEND-2018/arcade-game)
   4. Feed Reader Testing 
      - [Rubric](https://review.udacity.com/#!/rubrics/18/view)
+     - [Repo](./feed-reader-testing)
+     - [Demo](https://noellekinseydev.github.io/FEND-2018/feed-reader-testing)
   5. Restaurant Reviews App 
      - [Rubric](https://review.udacity.com/#!/rubrics/1090/view)
   6. MyReads: Book Tracking App 
