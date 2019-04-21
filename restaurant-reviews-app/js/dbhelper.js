@@ -9,7 +9,7 @@ class DBHelper {
    */
   static get DATABASE_URL() {
     const port = 8000 // Change this to your server port
-    return `/data/restaurants.json`; // Change to 'http://localhost:${port}/data/restaurants.json' to run locally
+    return `https://noellekinseydev.github.io/FEND-2018/restaurant-reviews-app/`; // Change to 'http://localhost:${port}/data/restaurants.json' to run locally
   }
 
   /**
