@@ -9,6 +9,12 @@ Using a provided web-based application that reads RSS feeds, I constructed test 
 
 Download this repository and open the index.html file in your preferred ES6-compatible browser. Alternatively, you can view the application by visiting [this link](https://noellekinseydev.github.io/FEND-2018/feed-reader-testing/).
 
+## What I Learned
+
+By building this application, I learned about Jasmine - a behavior-driven development framework for testing JavaScript code. I practiced identifying suites and specs, writing tests, the red-green factor process, testing asynchronous code, and writing async tests. This project focused on the "test-driven development" to ensure solid underlying business logic and application logic as well as event handling and DOM manipulation. 
+
+With these skills, I can now write effective tests that analyze multiple application aspects (HTML, CSS, JavaScript) to determine whether new code/features will break the existing application instead of testing all functionality manually. 
+
 ## Project Instructions
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
