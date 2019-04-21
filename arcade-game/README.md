@@ -9,7 +9,7 @@ I plan to re-upload this project with all original assets, choosable characters,
 
 ## Instructions
 
-- Play the game by clicking [this link](https://noellekinseydev.github.io/Udacity-FEND-Portfolio/fend-project-arcade-game/).
+- Play the game by clicking [this link](https://noellekinseydev.github.io/FEND-2018/arcade-game/).
   - Alternatively, you can clone or download this repository, extract the ZIP folder, and play the game by opening ```index.html```.
 - The objective of the game is to reach the water without running into a roach. 
 - You can move using the arrow keys or by clicking the arrow buttons beneath the game screen.
