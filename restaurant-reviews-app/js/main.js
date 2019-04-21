@@ -2,11 +2,11 @@ let restaurants, neighborhoods, cuisines;
 var newMap;
 var markers = [];
 
-if ("serviceWorker" in navigator) {
+/*if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("/serviceworker.js").catch(err => {
     console.error(err);
   });
-}
+}*/
 
 /**
  * Fetch neighborhoods and cuisines as soon as the page is loaded.
@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", event => {
   initMap(); // added
   fetchNeighborhoods();
   fetchCuisines();
+  DBHelper.registerServiceWorker();
 });
 
 /**
