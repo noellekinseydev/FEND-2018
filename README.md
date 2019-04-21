@@ -19,6 +19,8 @@
      - [Demo](https://noellekinseydev.github.io/FEND-2018/memory-game)
   3. Classic Arcade Game 
      - [Rubric](https://review.udacity.com/#!/rubrics/15/view)
+     - [Repo](./arcade-game)
+     - [Demo](https://noellekinseydev.github.io/FEND-2018/arcade-game)
   4. Feed Reader Testing 
      - [Rubric](https://review.udacity.com/#!/rubrics/18/view)
   5. Restaurant Reviews App 
