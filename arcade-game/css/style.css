@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    touch-action: manipulation; /* Disables doubletap to zoom */
+    background-color: #CCC;
+    font-family: 'Coda', cursive;
+}
+
+.hearts {
+    font-size: 30px;
+    color: rgb(194, 57, 64);
+}
+
+i {
+    padding-left: 5px;
+}
+
+#controller {
+    padding-top: 10px;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+}
+
+.left {
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.right {
+    display: inline-block;
+}
+
+#gameModal {
+    visibility: hidden;
+    color: white;
+    margin: 0 auto;
+    position: relative;
+    top: 8px;
+    width: 505px;
+    height: 550px;
+    background-color: black;
+    opacity: .95;
+}
+
+h1 {
+    padding-top: 100px;
+    font-size: 50px;
+}
+
+h3 {
+    padding: 0 50px 50px 50px;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+canvas {
+    margin-top: -606px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #707070;
+}
