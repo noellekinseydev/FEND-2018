@@ -188,7 +188,7 @@ class DBHelper {
    * Restaurant image URL.
    */
   static imageUrlForRestaurant(restaurant) {
-    return `/img/${restaurant.photograph}`;
+    return `https://noellekinseydev.github.io/FEND-2018/restaurant-reviews-app/img/${restaurant.photograph}`;
   }
 
   /**
