@@ -27,6 +27,8 @@
      - [Demo](https://noellekinseydev.github.io/FEND-2018/feed-reader-testing)
   5. Restaurant Reviews App 
      - [Rubric](https://review.udacity.com/#!/rubrics/1090/view)
+     - [Repo](./restaurant-reviews-app)
+     - [Demo](https://noellekinseydev.github.io/FEND-2018/restaurant-reviews-app)
   6. MyReads: Book Tracking App 
      - [Rubric](https://review.udacity.com/#!/rubrics/918/view)
   7. Neighborhood Map 
