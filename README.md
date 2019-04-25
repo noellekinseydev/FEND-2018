@@ -31,6 +31,7 @@
      - [Demo](https://noellekinseydev.github.io/FEND-2018/restaurant-reviews-app)
   6. MyReads: Book Tracking App 
      - [Rubric](https://review.udacity.com/#!/rubrics/918/view)
+     - [Repo](./my-reads)
   7. Neighborhood Map 
      - [Rubric](https://review.udacity.com/#!/rubrics/1351/view)
 ***
