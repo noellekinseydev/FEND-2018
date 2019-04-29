@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FEND-2018/my-reads/static/css/main.6b648676.chunk.css",
+    "main.js": "/FEND-2018/my-reads/static/js/main.57e95923.chunk.js",
+    "main.js.map": "/FEND-2018/my-reads/static/js/main.57e95923.chunk.js.map",
+    "runtime~main.js": "/FEND-2018/my-reads/static/js/runtime~main.01ddb171.js",
+    "runtime~main.js.map": "/FEND-2018/my-reads/static/js/runtime~main.01ddb171.js.map",
+    "static/js/2.764d65ee.chunk.js": "/FEND-2018/my-reads/static/js/2.764d65ee.chunk.js",
+    "static/js/2.764d65ee.chunk.js.map": "/FEND-2018/my-reads/static/js/2.764d65ee.chunk.js.map",
+    "index.html": "/FEND-2018/my-reads/index.html",
+    "precache-manifest.c9b1dca8cb4deefae73b21ab8adf6df4.js": "/FEND-2018/my-reads/precache-manifest.c9b1dca8cb4deefae73b21ab8adf6df4.js",
+    "service-worker.js": "/FEND-2018/my-reads/service-worker.js",
+    "static/css/main.6b648676.chunk.css.map": "/FEND-2018/my-reads/static/css/main.6b648676.chunk.css.map",
+    "static/media/App.css": "/FEND-2018/my-reads/static/media/arrow-drop-down.78c6f53b.svg"
+  }
+}
