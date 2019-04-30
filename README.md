@@ -32,6 +32,7 @@
   6. MyReads: Book Tracking App 
      - [Rubric](https://review.udacity.com/#!/rubrics/918/view)
      - [Repo](./my-reads)
+     - [Demo] (https://noellekinseydev.github.io/my-reads/)
   7. Neighborhood Map 
      - [Rubric](https://review.udacity.com/#!/rubrics/1351/view)
 ***

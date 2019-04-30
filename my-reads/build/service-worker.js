@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/FEND-2018/my-reads/precache-manifest.c9b1dca8cb4deefae73b21ab8adf6df4.js"
+  "/FEND-2018/my-reads/precache-manifest.ce027b2d6e69f82de621e81a23fbe80d.js"
 );
 
 self.addEventListener('message', (event) => {

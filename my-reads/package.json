@@ -1,5 +1,5 @@
 {
-  "homepage": "http://noellekinseydev.github.io/FEND-2018/my-reads",
+  "homepage": "http://noellekinseydev.github.com/FEND-2018/my-reads",
   "dependencies": {
     "escape-string-regexp": "^2.0.0",
     "prop-types": "^15.7.2",
