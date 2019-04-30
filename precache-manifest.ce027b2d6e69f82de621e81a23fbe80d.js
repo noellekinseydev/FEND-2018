@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ba9602bee7064835dcddc82e08a537c",
+    "revision": "b8ce66b17f0bb54e5e0fcb576612b4c2",
     "url": "/FEND-2018/my-reads/index.html"
   },
   {
-    "revision": "8661b003edfb2445f20d",
+    "revision": "7284a3f799264bcee5ba",
     "url": "/FEND-2018/my-reads/static/css/main.6b648676.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FEND-2018/my-reads/static/js/2.764d65ee.chunk.js"
   },
   {
-    "revision": "8661b003edfb2445f20d",
-    "url": "/FEND-2018/my-reads/static/js/main.b7037d36.chunk.js"
+    "revision": "7284a3f799264bcee5ba",
+    "url": "/FEND-2018/my-reads/static/js/main.d6e47826.chunk.js"
   },
   {
     "revision": "f9f17695f1d0c3493610",
