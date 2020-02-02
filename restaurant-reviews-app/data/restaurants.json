@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Mission Chinese Food",
     "neighborhood": "Manhattan",
-    "photograph": "https://images.unsplash.com/photo-1525755662778-989d0524087e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80",
+    "photograph": "1.jpg",
     "address": "171 E Broadway, New York, NY 10002",
     "latlng": {
       "lat": 40.713829,
